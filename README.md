@@ -29,7 +29,7 @@ est derrière.
 #### A RENDRE
 
 <img
-  src="./images/1.png"
+  src="/images/1.PNG"
   alt="Alt text"
   title="Optional title"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
@@ -38,8 +38,8 @@ est derrière.
 #### A ARRIVAL
 
 <img
-  src="./images/2.png"
-  alt="Alt text"
-  title="Optional title"
+  src="/images/2.PNG"
+  alt="Alt text2"
+  title="Optional title2"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
 
